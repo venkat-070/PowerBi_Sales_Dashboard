@@ -34,14 +34,14 @@ This dashboard enables stakeholders to move beyond raw sales totals and identify
 
 📸 Dashboard Preview
 
-(Add screenshots here, e.g.)
 
-Show Image Show Image
 
 📂 Repository Contents
 sales_dashboard.pbix — Power BI project file
-data/ — source dataset (if included)
-screenshots/ — dashboard preview images
-👤 Author
 
+data/ — source dataset (if included)
+
+screenshots/ — dashboard preview images
+
+👤 Author
 Venkat Vedhadri Marisetti GitHub • LinkedIn
